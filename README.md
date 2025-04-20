@@ -8,3 +8,13 @@ Analyzing  Amazon’s sales data for the first quarter of 2025(January – March
 - Total sales by Payment method
 - Total sales by Product
 - Total sales by customer location
+
+## Tools used:
+- Microsoft Excel
+- Power BI
+- Power Point
+
+## Author
+Shiv Kumar Paul
+
+### Linkedin Profile: www.linkedin.com/in/shiv-kumar-paul666
